@@ -26,7 +26,7 @@ The `buildBVH` function takes a vector of triangles as input and recursively con
 
 ## Usage
 
-To use this code, simply compile it using a C++ compiler and run the executable. The code includes a simple example that constructs a set of triangles, builds the BVH tree, and displays information about the triangles and BVH nodes.
+To use this code, simply compile it using a C++ compiler(gcc) and run the executable. The code includes a simple example that constructs a set of triangles, builds the BVH tree, and displays information about the triangles and BVH nodes.
 
 ## References
 
